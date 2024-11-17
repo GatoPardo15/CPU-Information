@@ -1,6 +1,6 @@
 ## What is this repository about?
 
-Simple Python program to view cpu information =)
+Simple Python program to view cpu information 
 
 ## The required packages
 
