@@ -6,15 +6,7 @@ import colorama
 from colorama import Fore, Back, Style
 
 os.system('cls')
-print("|-------------------------------------|")
-print("|    ______   _______   _____  _____  |")
-print("|  . ' ___  | |_   __ \ |_   _||_  _| |")
-print("| / .'   \_|   | |__) |  | |    | |   |")
-print("| |            |  ___/   | '    ' |   |")
-print("| \ `.___.'\  _| |_       \ \__/ /    |")
-print("|  `.____ .' |_____|       `.__.'     |")
-print("|-------------------------------------|")
-print(Fore.CYAN +"                       by GatoPardo15        ")
+print(Fore.CYAN +"by GatoPardo15")
 time.sleep(3.5)
 os.system('cls')
 print(Style.RESET_ALL + "|---------------------------------|")
@@ -27,6 +19,3 @@ print(f" Max Frequency: {cpufreq.max:.2f} Mhz")
 print("")
 print(f" Current Frequency: {cpufreq.current:.2f} Mhz")
 print("|---------------------------------|")
-
-
-
